@@ -1,0 +1,16 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  width: 200px;
+  padding: 5px 0 5px 13px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  font-family: 'Tektur', cursive;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  color: #000;
+  background-color: #95dada;
+  letter-spacing: 0.03rem;
+}
